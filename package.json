@@ -1,0 +1,21 @@
+{
+  "name": "equipment-maintenance-hub",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"no tests configured yet\" && exit 0",
+    "build": "echo \"no build configured yet\" && exit 0",
+    "dev": "echo \"no dev server configured yet\" && exit 0",
+    "verify:contract": "node packages/contract/scripts/verify-contract.mjs"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "typescript-eslint": "^8.70.1"
+  }
+}

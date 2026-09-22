@@ -1,0 +1,10 @@
+{
+  "name": "@equipment-hub/frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@equipment-hub/contract": "*"
+  }
+}
