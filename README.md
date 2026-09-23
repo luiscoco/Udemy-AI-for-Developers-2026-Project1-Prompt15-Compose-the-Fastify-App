@@ -1,4 +1,4 @@
-# Prompt 15 — Compose the Fastify App
+# Compose the Fastify App
 
 This README walks through what was built for this prompt: wiring up the Fastify
 backend by composing the pieces (`repository`, `dashboard`) that earlier prompts
